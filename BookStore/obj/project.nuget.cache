@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UnApbVWhrUicVy8J5Vs5C95qdW4KpaodsyXCVcMqIF437RHir9m7RZwd31R534D/dJnuxdRff4zvF4ND1+IMug==",
+  "dgSpecHash": "0OCoBKw+1k4S0ub3gOqCS01tr2p0c/0ndm73Z9MTj20h5tzOTBwhj4RH+8BBKLD7cxJuAoM5Wzda61H1IYuZtw==",
   "success": true,
-  "projectFilePath": "C:\\DotNetCoreProject\\BookStore\\BookStore\\BookStore.csproj",
+  "projectFilePath": "C:\\DotNetCoreProject\\BookStoreWithAPI\\BookStore\\BookStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sushil0162\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
   ],

@@ -12,6 +12,9 @@
       "BookStore.API/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.14"
+        },
         "compile": {
           "bin/placeholder/BookStore.API.dll": {}
         },
@@ -122,11 +125,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DotNetCoreProject\\BookStore\\BookStore\\BookStore.csproj",
+      "projectUniqueName": "C:\\DotNetCoreProject\\BookStoreWithAPI\\BookStore\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\DotNetCoreProject\\BookStore\\BookStore\\BookStore.csproj",
+      "projectPath": "C:\\DotNetCoreProject\\BookStoreWithAPI\\BookStore\\BookStore.csproj",
       "packagesPath": "C:\\Users\\sushil0162\\.nuget\\packages\\",
-      "outputPath": "C:\\DotNetCoreProject\\BookStore\\BookStore\\obj\\",
+      "outputPath": "C:\\DotNetCoreProject\\BookStoreWithAPI\\BookStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sushil0162\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -143,8 +146,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\DotNetCoreProject\\BookStore\\BookStore.API\\BookStore.API.csproj": {
-              "projectPath": "C:\\DotNetCoreProject\\BookStore\\BookStore.API\\BookStore.API.csproj"
+            "C:\\DotNetCoreProject\\BookStoreWithAPI\\BookStore.API\\BookStore.API.csproj": {
+              "projectPath": "C:\\DotNetCoreProject\\BookStoreWithAPI\\BookStore.API\\BookStore.API.csproj"
             }
           }
         }
